@@ -1,0 +1,17 @@
+{
+    "base": {
+      "project": "Myshare Tests",
+      "environment": "QA",
+      "comment": "Check the reportы",
+      "reportLink": "https://cyberyozh.github.io/myshare-tests",
+      "language": "en",
+      "messenger": "telegram",
+      "allureFolder": "allure-report",
+      "enableChart": true
+    },
+    "telegram": {
+      "token": "TELEGRAM_TOKEN",
+      "chat": "CHAT_ID",
+      "replyTo": ""
+    }
+}

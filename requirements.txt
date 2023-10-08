@@ -1,0 +1,8 @@
+allure-pytest==2.13.1
+allure-python-commons==2.13.1
+Faker==16.4.0
+httpx==0.23.3
+jsonschema==4.17.3
+pymailtm==1.1.1
+pytest==7.2.0
+pytest-steps==1.8.0
